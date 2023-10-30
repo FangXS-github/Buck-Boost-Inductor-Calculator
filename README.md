@@ -11,4 +11,4 @@ Persional QT Codes
 
 ![MainWindow](https://github.com/shun-int/QT/assets/70793339/0536a4f4-2813-4c39-a00d-42953c42e195)
 + 使用方法：
-+ 输入相应参数后点击Cali，即可获得电感值范围。
++ 输入相应参数后点击Cali，即可获得电感值范围,计算结果的单位是`uH`。
