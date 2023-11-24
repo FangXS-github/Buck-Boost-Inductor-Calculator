@@ -1,7 +1,4 @@
-# QT
-Persional QT Codes
-
-## Buck-Boost-L-Cali
+# Buck-Boost-L-Cali
 + 电感计算器
 + 用来计算Buck和Boost的sw端电感值
 + [CSDN](https://blog.csdn.net/m0_49319736/article/details/132533596?spm=1001.2014.3001.5501)
@@ -12,3 +9,6 @@ Persional QT Codes
 ![MainWindow](https://github.com/shun-int/QT/assets/70793339/0536a4f4-2813-4c39-a00d-42953c42e195)
 + 使用方法：
 + 输入相应参数后点击Cali，即可获得电感值范围,计算结果的单位是`uH`。
+
++ QT工程路径：Buck-Boost-L-Cali/1. SRC/
++ 可执行文件路径（64位Windows）：Buck-Boost-L-Cali/2. EXE/Buck-Boost-L-Cali_boxed.exe
