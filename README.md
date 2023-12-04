@@ -11,3 +11,6 @@
 
 + QT工程路径：Buck-Boost-L-Calc/1. SRC/
 + 可执行文件路径（64位Windows）：Buck-Boost-L-Calc/2. EXE/Buck-Boost-L-Calc_boxed.exe
+
+
++ 工程和可执行文件中cali是单词拼写错误，应为calc
